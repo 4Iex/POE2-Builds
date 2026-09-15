@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding2>
-	<Build className="Warrior" targetVersion="0_1" mainSocketGroup="1" characterLevelAutoMode="false" viewMode="TREE" ascendClassName="Warbringer" level="26">
+	<Build className="Warrior" targetVersion="0_1" mainSocketGroup="1" characterLevelAutoMode="false" viewMode="CALCS" ascendClassName="Warbringer" level="26">
 		<BeastCompanion id="Metadata/Monsters/Quadrilla/QuadrillaBossMinion1"/>
 		<BeastCompanion id="Metadata/Monsters/Quadrilla/Quadrilla"/>
 		<BeastCompanion id="Metadata/Monsters/MudBurrower/MudBurrowerHeadBossMinion1"/>
