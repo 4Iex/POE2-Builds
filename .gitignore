@@ -1,0 +1,9 @@
+~~*.xml
+*.tmp
+*.bak
+*.livesync.*
+*.currentsync.*
+*.hexforge.*
+.hexforge_refresh_now
+.hexforge_backend_state.json
+.hexforge_pob_status.txt
